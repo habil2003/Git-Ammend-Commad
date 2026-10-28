@@ -1,0 +1,2 @@
+This is a text file containing login information.
+This is new line.
